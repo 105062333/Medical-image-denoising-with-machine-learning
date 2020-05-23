@@ -1,1 +1,1 @@
-![]https://imgur.com/a/9CVgg9z
+#Medical-image-denoising-with-machine-learning
